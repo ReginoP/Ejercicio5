@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="/Ej2_ciclos.xslt"?>
 <ciclos>
@@ -5,4 +6,13 @@
     <ciclo>Desarrollo de Aplicaciones Web</ciclo>
     <ciclo>Desarrollo de Aplicaciones Multiplataforma</ciclo>
     <ciclo>Sistemas Microinformáticos y Redes</ciclo>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/Ej2_ciclos.xslt"?>
+<ciclos>
+    <ciclo>Administración de Sistemas Informáticos en Red</ciclo>
+    <ciclo>Desarrollo de Aplicaciones Web</ciclo>
+    <ciclo>Desarrollo de Aplicaciones Multiplataforma</ciclo>
+    <ciclo>Sistemas Microinformáticos y Redes</ciclo>
+>>>>>>> 7c0e9a3ae5306248bb8f3e6ac13cee5528d6208d
 </ciclos>
